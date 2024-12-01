@@ -32,4 +32,5 @@ The factor loadings range is from 0.504 to 0.854, indicating that all items mean
 Finding 1: The interaction effect of stressful life events on non-specific psychological distress for both male and female adolescents is statistically significant (***p<.001).
 Finding 2: Moderation Analysis, sex significantly moderates the stress-distress relationship (***p < 0.001):
 Finding 3: Female adolescents experience a stronger impact of stressful events on psychological distress compared to male adolescents, as indicated by the larger slope for female adolescents. 
+![famale](/assets/img/male:female.png)
 Finding 4: No significant interaction effect of ethnic groups on the relationship between stressful life events and non-specific psychological distress.
